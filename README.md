@@ -14,10 +14,10 @@ Hi! I'm currently participating in a 45 Days SDE Challenge to improve my Data St
 - Java
 
 ## Progress
+## Progress
 
-| Day | Problems Solved |
-|-----|----------------|
-| Day 01 | Coming Soon |
-
+| Day | Topic | Problems Solved |
+|-----|-------|----------------|
+| Day 01 | Arrays | Set Matrix Zeroes (O(m×n)), Pascal's Triangle (O(n²)), Next Permutation (O(n)) ✅ |
 ---
 Started on: June 1st 2026
